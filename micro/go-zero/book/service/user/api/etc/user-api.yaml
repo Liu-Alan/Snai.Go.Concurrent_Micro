@@ -1,0 +1,12 @@
+Name: user-api
+Host: 0.0.0.0
+Port: 8888
+Mysql:
+  DataSource: root:as1028@tcp(127.0.0.1:3306)/snai_book?charset=utf8mb4&parseTime=true&loc=Local
+CacheRedis:
+  - Host: 127.0.0.1:6379
+    Pass: as1028
+    Type: node
+Auth:
+  AccessSecret: 9QDNzigFARhFIoZ1UQtAyqDVjryR0vfV
+  AccessExpire: 18000
