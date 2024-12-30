@@ -10,3 +10,5 @@ CacheRedis:
 Auth:
   AccessSecret: 9QDNzigFARhFIoZ1UQtAyqDVjryR0vfV
   AccessExpire: 18000
+DevServer:
+  Enabled: true
