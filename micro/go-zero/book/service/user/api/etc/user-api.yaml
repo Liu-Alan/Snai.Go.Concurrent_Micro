@@ -2,7 +2,7 @@ Name: user-api
 Host: 0.0.0.0
 Port: 8888
 Mysql:
-  DataSource: root:as1028@tcp(127.0.0.1:3306)/snai_book?charset=utf8mb4&parseTime=true&loc=Local
+  DataSource: root:as1028@tcp(127.0.0.1:3306)/snai_test?charset=utf8mb4&parseTime=true&loc=Local
 CacheRedis:
   - Host: 127.0.0.1:6379
     Pass: as1028
