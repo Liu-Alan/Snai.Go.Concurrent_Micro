@@ -1,4 +1,4 @@
-# Snai.Go.Concurrent_Micro
+# snai.go.concurrent_micro
 go 学习  [https://www.topgoer.com/](https://www.topgoer.com/)  
 go-zero  [https://www.w3cschool.cn/gozero/gozero-ismd3nlx.html](https://www.w3cschool.cn/gozero/gozero-ismd3nlx.html)，[https://go-zero.dev/docs/tasks/installation/goctl](https://go-zero.dev/docs/tasks/installation/goctl)  
 
